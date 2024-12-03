@@ -10,7 +10,6 @@ Input: s1 = "geeks", s2 = "kseeg"
 Output: true
 Explanation: Both the string have same characters with same frequency. So, they are anagrams. */
 
-
 //{ Driver Code Starts
 #include <bits/stdc++.h>
 using namespace std;
