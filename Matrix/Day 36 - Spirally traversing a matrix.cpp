@@ -1,4 +1,4 @@
- https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/spirally-traversing-a-matrix-1587115621
+/* https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/spirally-traversing-a-matrix-1587115621
 
 You are given a rectangular matrix mat[][] of size n x m, and your task is to return an array while traversing the matrix in spiral form.
 
@@ -14,7 +14,7 @@ Explanation: Applying same technique as shown above.
 
 Input: mat[][] = [[32, 44, 27, 23], [54, 28, 50, 62]]
 Output: [32, 44, 27, 23, 62, 50, 28, 54]
-Explanation: Applying same technique as shown above, output will be [32, 44, 27, 23, 62, 50, 28, 54]. 
+Explanation: Applying same technique as shown above, output will be [32, 44, 27, 23, 62, 50, 28, 54]. */
 
 //{ Driver Code Starts
 #include <bits/stdc++.h>
